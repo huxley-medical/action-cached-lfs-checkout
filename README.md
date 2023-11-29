@@ -25,7 +25,7 @@ Simply replace the above by
 
 ```yaml
 - name: Checkout code
-  uses: nschloe/action-cached-lfs-checkout@v1
+  uses: huxley-medical/action-cached-lfs-checkout@v1
   # Use these to explicitly include/exclude files:
   # with:
   #   include: "*"
